@@ -1,0 +1,7 @@
+/config.local
+/tmp
+/cache
+
+# To ignore any directories named SCUT-FBP5500_V2
+# in any depth use ** before DirectoryA
+**/SCUT-FBP5500_V2/
