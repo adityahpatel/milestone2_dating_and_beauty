@@ -1,0 +1,6 @@
+/data.xml
+/SCUT-FBP5500_V2.1.zip
+
+# To ignore any directories named SCUT-FBP5500_V2
+# in any depth use ** before DirectoryA
+**/SCUT-FBP5500_V2/
